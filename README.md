@@ -13,4 +13,4 @@ En el backend, valoro arquitecturas simples y mantenibles, y he trabajado en la 
   
 # Skills: `Science, Web, Backend`
 
-![Skills](https://skillicons.dev/icons?i=cpp,r,py,pytorch,matlab,latex,go,react,vite,ts,js,tailwind,arch,debian,bash,postgres,mysql,redis&perline=6)
+![Skills](https://skillicons.dev/icons?i=cpp,r,py,pytorch,matlab,latex,go,react,vite,ts,js,tailwind,linux,bash,docker,postgres,redis,grafana&perline=6)
