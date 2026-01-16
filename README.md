@@ -1,4 +1,10 @@
-# → Gustavo Calvo
+<div align="center">
+  <img src="banner.gif">
+</div>
+
+---
+
+# Gustavo Calvo ⌨️
 
 Desarrollador e investigador en computación científica, tecnologías web y administración de sistemas.
 Tengo experiencia en cómputo numérico y análisis de datos (C++, R, Python, MATLAB, LaTeX), así como en desarrollo web moderno con frameworks populares.
